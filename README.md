@@ -11,7 +11,7 @@ CharityML is a fictitious charity organization located in the heart of Silicon V
 
 ### Deep Learning
 
-[Create an Image Classifier](https://www.google.com/)
+[Create an Image Classifier](https://github.com/richardvlas/udacity-machine-learning-introduction/tree/master/image_classifier)
 
 Implement an image classification application using a deep learning model on a dataset of images. You will then use the trained model to classify new images. First, you will develop your code in a Jupyter notebook, then convert it into a Python application that you will run from the command line of your system.
 
