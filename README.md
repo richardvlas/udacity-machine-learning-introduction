@@ -17,6 +17,6 @@ Implement an image classification application using a deep learning model on a d
 
 ### Unsupervised Learning
 
-[Creating Customer Segments](https://www.google.com/)
+[Creating Customer Segments](https://github.com/richardvlas/udacity-machine-learning-introduction/tree/master/identify_customer_segments)
 
 Use unsupervised learning techniques to see if any similarities exist between customers and use those similarities to segment customers into distinct categories using various clustering techniques. This segmentation is used to help the business make more informed marketing and product decisions.
